@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6570\u636E\u7ED3\u6784\\2024_04_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{330AA5EE-48B4-4617-83DE-8F08F6657F24}|2024_04_13\\2024_04_13.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\\2024_04_13\\2024_04_13\\chapter14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{330AA5EE-48B4-4617-83DE-8F08F6657F24}|2024_04_13\\2024_04_13.vcxproj|solutionrelative:2024_04_13\\chapter14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330AA5EE-48B4-4617-83DE-8F08F6657F24}|2024_04_13\\2024_04_13.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\\2024_04_13\\2024_04_13\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{330AA5EE-48B4-4617-83DE-8F08F6657F24}|2024_04_13\\2024_04_13.vcxproj|solutionrelative:2024_04_13\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chapter14.c",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\\2024_04_13\\2024_04_13\\chapter14.c",
+              "RelativeDocumentMoniker": "2024_04_13\\chapter14.c",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\\2024_04_13\\2024_04_13\\chapter14.c",
+              "RelativeToolTip": "2024_04_13\\chapter14.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-13T05:51:02.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\\2024_04_13\\2024_04_13\\test.c",
+              "RelativeDocumentMoniker": "2024_04_13\\test.c",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\\2024_04_13\\2024_04_13\\test.c",
+              "RelativeToolTip": "2024_04_13\\test.c",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-13T00:13:49.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
